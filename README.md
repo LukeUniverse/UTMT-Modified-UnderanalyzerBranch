@@ -1,3 +1,17 @@
+Added a few options to the right click context menu for the TreeView on the left hand side of the screen.
+New items I added:
+
+Add: {CurrentSection}
+Open in current tab
+Move up to {Previous Section}
+Move down to {Next Section}
+Collapse all
+Collapse {Current Section}
+
+Where Current/Previous/Next Section is replaced with the text of the that section such as "Sounds" "Tile sets" "Sprites", etc etc.
+
+
+The rest below is just copied from the regular UTMT section.
 # UndertaleModTool
 
 [![Underminers Discord](https://img.shields.io/discord/566861759210586112?label=Discord&logo=discord&logoColor=white)](https://discord.gg/hnyMDypMbN) [![GitHub](https://img.shields.io/github/license/krzys-h/UndertaleModTool?logo=github)](https://github.com/krzys-h/UndertaleModTool/blob/master/LICENSE.txt)
